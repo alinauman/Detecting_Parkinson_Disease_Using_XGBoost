@@ -17,7 +17,9 @@ XGBoost is a new Machine Learning algorithm designed with speed and performance 
 - Calculate the accuracy of our model
 
 The data-set for this project can be downloaded from the below mentioned link,
+
 [Data](https://archive.ics.uci.edu/ml/machine-learning-databases/parkinsons/)
+
 The dataset has 24 columns and 195 records and is only 39.7 KB.
 
 [Code](https://github.com/alinauman/Detecting_Parkinson_Disease_Using_XGBoost/blob/main/Detecting%20Parkinson's%20Disease%20with%20XGBoost.ipynb)
